@@ -1,0 +1,1 @@
+data class Response(val jwt:String,val status:String,val message:String)
